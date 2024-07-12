@@ -73,10 +73,10 @@ main {
     position: absolute;
     top: 5px;
     right: 5px;
-    background: rgb(1, 14, 128);
-    color: white;
+    background: rgb(1, 25, 245, 0.356);
+    color: rgb(5, 5, 5);
     border: none;
-    border-radius: 5px;
+    border-radius: 15px;
     cursor: pointer;
 }
 .delete-card-btn {
